@@ -4,7 +4,7 @@
 cp /etc/paru.conf ~/.config/paru/paru.conf
 ```
 
-``` toml
+``` properties
 #
 # $PARU_CONF
 # /etc/paru.conf
